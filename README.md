@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stevencyc
-- 👀 I’m interested in project management and coding
-- 🌱 I’m currently learning AI
+- 👀 I’m interested in project management and software development
+- 🌱 I’m a scrum master and utlizing AI in various area
 - 💞️ I’m looking to collaborate with all amazing developers...
 - 📫 How to reach me ...
 
